@@ -83,4 +83,4 @@ Any of these will serve your site at your own domain once DNS propagates
 - Connect the contact form to Formspree, a serverless function, or your own API.
 - Add Google Analytics / Plausible for traffic tracking.
 - Replace stock images with real team/campaign photography.
-- Add a blog or case-studies page once you have client results to showcase.
+- Add a blog or case-studies page once you have client results to showcase

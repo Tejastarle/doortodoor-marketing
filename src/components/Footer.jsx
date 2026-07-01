@@ -15,7 +15,7 @@ export default function Footer() {
             <p>
               We plan and run face-to-face field campaigns — door-to-door outreach, product
               sampling, lead generation and merchant onboarding — backed by trained teams and
-              daily, transparent reporting.
+              daily, transparent reporting. Contact:-+91 98723 69496
             </p>
           </div>
 
@@ -49,7 +49,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <span>© {new Date().getFullYear()} DoorToDoor Marketing. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} DoorToDoor Marketing. All rights reserved. Contact:-+91 98723 69496</span>
           <div className="footer-social">
             <a href="#" aria-label="LinkedIn"><Linkedin size={16} /></a>
             <a href="#" aria-label="Instagram"><Instagram size={16} /></a>

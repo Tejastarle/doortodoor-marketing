@@ -8,7 +8,7 @@ export default function CTASection() {
       <div className="container">
         <div className="cta-banner">
           <div>
-            <h2>Ready to reach real customers, door by door?</h2>
+            <h2>Ready to reach real customers, door by door? Contact-+91 98723 69496</h2>
             <p>Tell us your city, audience and goal — we'll come back with a campaign plan and a team-size recommendation within 24 hours.</p>
           </div>
           <div className="cta-actions">

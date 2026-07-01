@@ -92,19 +92,19 @@ export const industries = [
 export const testimonials = [
   {
     quote: 'Their field team felt like an extension of ours — same energy, same accountability, clear daily numbers.',
-    name: 'Rohan Mehta',
+    name: 'Rohit Sen',
     role: 'Growth Lead, Consumer App',
     img: 'https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=80',
   },
   {
     quote: 'We needed merchant sign-ups in a new city fast. DoorToDoor had boots on the ground within a week.',
-    name: 'Ayesha Kapoor',
+    name: 'ROHIT SEN',
     role: 'Operations Manager, Fintech',
     img: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&q=80',
   },
   {
     quote: 'The reporting discipline stood out — photos, GPS tags and lead quality checks, every single day.',
-    name: 'Vikram Rao',
+    name: 'ROHIT SEN',
     role: 'Brand Manager, FMCG',
     img: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80',
   },
@@ -121,8 +121,8 @@ export const kpis = [
 export const companyInfo = {
   name: 'DoorToDoor Marketing',
   tagline: 'Face-to-Face Field Marketing & Customer Acquisition',
-  phone: '+91 98765 43210',
-  email: 'hello@doortodoormarketing.com',
+  phone: '+91 98723 69496',
+  email: 'rohitsen@gmail.com',
   address: 'Mumbai, Maharashtra, India — Operations across 80+ cities',
   hours: 'Mon – Sat, 9:00 AM – 7:00 PM',
 }

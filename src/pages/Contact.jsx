@@ -30,7 +30,7 @@ export default function Contact() {
         <div className="container">
           <span className="breadcrumb">Home <b>/</b> Contact</span>
           <h1>Let's plan your first campaign</h1>
-          <p>Share a few details about your goal and city — we'll get back with a suggested approach and team size within 24 hours.</p>
+          <p>Share a few details about your goal and city — we'll get back with a suggested approach and team size within 24 hours. Contact:-+91 98723 69496</p>
         </div>
       </div>
 

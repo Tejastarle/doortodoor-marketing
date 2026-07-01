@@ -16,7 +16,7 @@ export default function About() {
         <div className="container">
           <span className="breadcrumb">Home <b>/</b> About Us</span>
           <h1>Built by people who still believe in the knock on the door</h1>
-          <p>DoorToDoor Marketing exists because some conversations still work best face to face — and we've spent over a decade making those conversations count.</p>
+          <p>DoorToDoor Marketing exists because some conversations still work best face to face — and we've spent over a decade making those conversations count then Contact:-+91 98723 69496</p>
         </div>
       </div>
 
